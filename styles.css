@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(to right, rgb(249, 230, 154), rgb(136, 167, 51));
+}
+
+.main-container {
+    margin: 5% 15% 15% 15%;
+    padding: 5% 5% 5% 5%;;
+    border: 5px solid white;
+    border-radius: 15px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 24px;
+}
+
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 25px;
+    border: 2px solid white;
+}
+
+#increment-btn {
+    background-color: rgb(94, 0, 137);
+}
+
+#save-btn {
+    background-color: rgb(115, 1, 54);
+}
