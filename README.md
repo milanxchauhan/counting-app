@@ -1,2 +1,2 @@
 # counting-app
-A repository for a JavaScript based counting app I made.
+A repository for a counting app I made using JavaScript.
